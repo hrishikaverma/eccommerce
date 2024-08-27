@@ -20,6 +20,9 @@ Additionally, there are embedded styles using CSS to control the layout and styl
 
 Overall, this HTML code provides a basic framework for an e-commerce website design.
 
+Output:
+![ecommerce](https://github.com/user-attachments/assets/2fb5b297-38f9-46fe-9234-a393c1a617cf)
+
 
 
  
